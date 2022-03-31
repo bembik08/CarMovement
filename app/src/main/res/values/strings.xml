@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CarMovement</string>
+    <string name="hello_taxi">Hello, TAXI!</string>
 </resources>
